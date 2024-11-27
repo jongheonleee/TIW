@@ -11,9 +11,9 @@
 
 ### 📋 CONTENTS
 > ### 📌 1. Languages
-> - [1. 파이썬 MyPoint 구현하기 - 깃허브](https://github.com/jongheonleee/hello_my_python)
-> - [2. 자바로 카드 게임 구현하기 - 깃허브](https://yeoneul-tech.tistory.com/category/Java)
-> - [4. 자바스크립트 각종 게임 구현하기 - 깃허브](https://yeoneul-tech.tistory.com/category/JavaScript)
+> - [1. 파이썬 MyPoint 구현하기 - 깃허브](https://github.com/jongheonleee/practice_my_python)
+> - [2. 자바로 카드 게임 구현하기 - 깃허브](https://github.com/jongheonleee/card_game)
+> - [4. 자바스크립트 각종 게임 구현하기 - 깃허브](https://github.com/jongheonleee/javascript_practice)
 
 <br>
 
